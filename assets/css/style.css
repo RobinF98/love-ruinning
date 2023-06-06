@@ -7,18 +7,23 @@
 }
 
 body {
-    font-family: Arial;
-    background-color: rgb(104, 74, 8);
-    color: rgba(212, 144, 18, 0.692);
-    position: relative;
-    text-align: center;
     font-family: "Lato", sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+
+
 }
 
-h1 {
-    color: rgba(206, 161, 77, 0.692);
-    position: relative;
-    text-align: center;
+/* headings and logo */
+
+h1, h2 {
     font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
