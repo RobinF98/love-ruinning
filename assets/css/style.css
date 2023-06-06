@@ -35,7 +35,7 @@ h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-    position: relative;
+    /* position: relative; */
     text-align: right;
 }
 
@@ -46,7 +46,7 @@ h2 {
 #menu li {
     list-style-type: none;
     margin-right: 30px;
-    display: inline-block;
+    display: inline;
 }
 
 #menu a {
@@ -208,4 +208,25 @@ hr {
 
 #times h2 {
     color: #fafafa
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+footer ul {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    font-size: 160%;
+        margin: 1%;
+        padding: 5%;
+        color: #3a3a3a;
 }
