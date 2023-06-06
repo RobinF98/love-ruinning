@@ -1,7 +1,13 @@
 body {
     font-family: Arial;
+    background-color: rgb(104, 74, 8);
+    color: rgba(212, 144, 18, 0.692);
+    position: relative;
+    text-align: center;
 }
 
 h1 {
-    color: pink;
+    color: rgba(212, 144, 18, 0.692);
+    position: relative;
+    text-align: center;
 }
